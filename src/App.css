@@ -1,0 +1,26 @@
+body {
+  background: #191d28;
+}
+
+.navbar {
+  display: flex;
+  padding: 10px 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.filter {
+  display: flex;
+  align-items: center;
+}
+
+.select,
+.buy_btc {
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+  background-color: #2e3241;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
